@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fa7bf713a42bd9e4183e7ef3735605ad
+timeCreated: 1504527284
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - swrd: {instanceID: 0}
+  - swrd2: {instanceID: 0}
+  - sword_swing: {fileID: 8300000, guid: 72de2a353cacc46d3aad1d65f2599d2a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
